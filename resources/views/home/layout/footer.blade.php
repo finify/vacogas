@@ -87,7 +87,7 @@
                     <div class="column col-md-4 col-sm-6 col-xs-12">
 						<div class="footer-widget links-widget">
                         	<div class="footer-title">
-                            	<h2>Usefull Links</h2>
+                            	<h2>Useful Links</h2>
                             </div>
                             <div class="row clearfix">
                                 <div class="column col-md-6 col-sm-6 col-xs-12">
