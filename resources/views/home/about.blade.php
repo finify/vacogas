@@ -6,7 +6,7 @@
 	<section class="page-title" style="background-image:url(/homeassets/images/background/6.jpg)">
     	<div class="auto-container">
         	<ul class="page-breadcrumb">
-            	<li><a href="index.html">Home</a></li>
+            	<li><a href="/">Home</a></li>
                 <li>About Us</li>
             </ul>
         	<h1>About Us</h1>
@@ -248,7 +248,7 @@ Our business model is geared towards providing cleaner, cost-effective natural g
     <!--End Career Section-->
     
     <!--Team Section-->
-    <section class="team-section">
+    <section class="team-section" id="team">
     	<div class="auto-container">
         	<div class="sec-title centered">
             	<h2>Behind Our Success</h2>
@@ -294,11 +294,11 @@ Our business model is geared towards providing cleaner, cost-effective natural g
                             <div class="text">
                             Before joining Vaco Gas, Chinedu Okoronkwo served as the Chief Executive Officer  and Chairman of Avina Industries Limited, domiciled in the Rivers State Capital, Port Harcourt,  South - South Nigeria, is a leading captain of industry and organized private sector. 
                             <br>
-                            An urbane man of all seasons, Chinedu Okoronkwo,  is a name well known to  key policy makers, managers and top notch executives  not only within the Nigerian National Petroleum Corporation{ ( NNPC  }, NPDC , NLNG , NAPIMS . NUPRC , NDMPRA , NMPPRA etc , amongst other  but in the entire value- chain of the oil and gas industry. 
+                            An urbane man of all seasons, Chinedu Okoronkwo,  is a name well known to  key policy makers, managers and top notch executives  not only within the Nigerian National Petroleum Corporation ( NNPC ), NPDC , NLNG , NAPIMS . NUPRC , NDMPRA , NMPPRA etc , amongst other  but in the entire value- chain of the oil and gas industry. 
                             <br>
                             He demonstrated immense associational leadership skills, robust experience, competences , diplomacy and knowledge-base in the national headship of the Independent Petroleum Marketers Association of Nigeria (IPMAN) on December 14th , 2014 , when he was first elected the National President of IPMAN.
                             <br>
-                            Currently sitting on the Board of Trustees of the Independent Petroleum Marketers Association  { IPMAN } as its Treasurer  and former National President, Chinedu Okoronkwo had been in the forefront of drumming up nationwide campaign drive on the conceptual need for the introduction of the Compressed Natural Gas (CNG), three years before  a great majority of Nigerians as well as the Federal Government,  began to show interest in the scheme. 
+                            Currently sitting on the Board of Trustees of the Independent Petroleum Marketers Association of Nigeria   { IPMAN } as its Treasurer  and former National President, Chinedu Okoronkwo had been in the forefront of drumming up nationwide campaign drive on the conceptual need for the introduction of the Compressed Natural Gas (CNG), three years before  a great majority of Nigerians as well as the Federal Government,  began to show interest in the scheme. 
                             <br>
                             His sound knowledge-base, experience  , competences and global contacts on the Compressed Natural Gas {CNG}  a criteria that led THIS DAY newspapers in December  2022 to  list Chinedu Okoronkwo amongst the  MOVERS & SHAKERS OF THE NIGERIAN ECONOMY.</div>
                         </div>
@@ -327,7 +327,7 @@ Our business model is geared towards providing cleaner, cost-effective natural g
                             Aliche also served as the Zonal General Secretary Eastern Zone 2017 - 2023 and Currently the National Chief Whip for Independent Petroleum Marketers Association of Nigeria (IPMAN).
                             <br>
                             Aliche Chijioke Oti is a seasoned leader with over twenty 20 years experience in Corporate Governance and Investment Management.
-                            He has played a pivotal role in the strengthening the company’s strategic formulation and execution.</div>
+                            He has played a pivotal role in  strengthening the company’s strategic formulation and execution.</div>
                         </div>
                     </div>
                 </div>

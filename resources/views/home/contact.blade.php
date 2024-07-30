@@ -6,7 +6,7 @@
 	<section class="location-section" style="background-image:url(/homeassets/images/background/pattern-1.png)">
     	<div class="auto-container">
         	<ul class="page-breadcrumb">
-            	<li><a href="index.html">Home</a></li>
+            	<li><a href="/">Home</a></li>
                 <li>Contact Us</li>
             </ul>
         	<div class="sec-title centered light">

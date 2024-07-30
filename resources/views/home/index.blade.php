@@ -132,7 +132,7 @@
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
                     style="z-index: 7; white-space: nowrap;">
-                    	<a href="about.html" class="know_more"><span class="icon flaticon-right-arrow-1"></span> </a>
+                    	<a href="/about" class="know_more"><span class="icon flaticon-right-arrow-1"></span> </a>
                     </div>
                     
                     </li>
@@ -323,67 +323,67 @@
                             <div class="separator"></div>
                         </div>
                        
-                        <a href="#" class="view_all"><span class="icon flaticon-right-arrow-1"></span> View All Sectors</a>
+                        <a class="view_all"><span class="icon flaticon-right-arrow-1"></span> View All Sectors</a>
                     </div>
                 </div>
                 
                 <!--Market Block-->
                 <div class="market-block m-block col-lg-4 col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
-                    	<h3><a href="#">CNG Conversion <br>Kits </a></h3>
+                    	<h3><a>CNG Conversion <br>Kits </a></h3>
                         <div class="text">We offer high-quality conversion kits that enable vehicles to run on CNG, providing a cost-effective and environmentally friendly alternative to traditional fuels.</div>
                         <div class="icon-box">
                         	<span class="icon flaticon-conveyor"></span>
                         </div>
-                        <a href="#" class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
+                        <a class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
                     </div>
                 </div>
                 
                 <!--Market Block-->
                 <div class="market-block m-block col-lg-4 col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
-                    	<h3><a href="#">CNG Refueling <br> Station</a></h3>
+                    	<h3><a>CNG Refueling <br> Station</a></h3>
                         <div class="text">Our turnkey solutions include the design, installation, and maintenance of CNG refueling stations for fleet operators, municipalities, and private businesses.</div>
                         <div class="icon-box">
                         	<span class="icon flaticon-demolishing"></span>
                         </div>
-                        <a href="about.html" class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
+                        <a class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
                     </div>
                 </div>
                 
                 <!--Market Block-->
                 <div class="market-block m-block col-lg-4 col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
-                    	<h3><a href="#">CNG Vehicle <br> Maintenance</a></h3>
+                    	<h3><a>CNG Vehicle <br> Maintenance</a></h3>
                         <div class="text">We provide comprehensive maintenance services for CNG vehicles, ensuring optimal performance and longevity.</div>
                         <div class="icon-box">
                         	<span class="icon flaticon-valve"></span>
                         </div>
-                        <a href="about.html" class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
+                        <a class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
                     </div>
                 </div>
                 
                 <!--Market Block-->
                 <div class="market-block m-block col-lg-4 col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
-                    	<h3><a href="#">Consultation and <br>Training  </a></h3>
+                    	<h3><a>Consultation and <br>Training  </a></h3>
                         <div class="text">Our team of experts offers consultation services and training programs to help clients navigate the transition to CNG technology seamlessly.</div>
                         <div class="icon-box">
                         	<span class="icon flaticon-boat"></span>
                         </div>
-                        <a href="about.html" class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
+                        <a class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
                     </div>
                 </div>
                 
                 <!--Market Block-->
                 <div class="market-block m-block col-lg-4 col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box">
-                    	<h3><a href="#">Fleet Management </br> Solutions </a></h3>
+                    	<h3><a>Fleet Management </br> Solutions </a></h3>
                         <div class="text">We offer advanced fleet management software designed to optimize operational efficiency, reduce costs, and minimize environmental impact.</div>
                         <div class="icon-box">
                         	<span class="icon flaticon-flasks"></span>
                         </div>
-                        <a href="about.html" class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
+                        <a class="view_all">Go Through <span class="icon flaticon-right-arrow-1"></span></a>
                     </div>
                 </div>
                 
