@@ -131,7 +131,7 @@
         <div class="auto-container">
     
             
-            <div class="copyright">Copyright © 2024 </br> Design by<a href="#"> FinifyTech.</a> All rights reserved.</div>
+            <div class="copyright">Copyright © 2025 </br> Design by<a href="#"> FinifyTech.</a> All rights reserved.</div>
             
         </div>
     </div>
